@@ -12,3 +12,7 @@ body {
 .center-text {
   text-align: center;
 }
+
+.list-no-indent {
+  padding-left: 0;
+}
