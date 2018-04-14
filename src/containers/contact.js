@@ -8,7 +8,7 @@ const contact = () => {
       <div className="container-fluid container-no-padding">
         <div className="row row-no-margin">
           <div className="image-block-item col-md-6 col-sm-5 col-xs-12">
-            <div className="image-block-item-background image-block-item-map" data-lat="33.7955454" data-lng="-117.8282586"></div>
+            <div className="image-block-item-background image-block-item-map" data-lat="37.9670353" data-lng="-121.9863118"></div>
           </div>{/* .image-block-item */}
         </div>{/* .row */}
       </div>{/* .container-fluid */}

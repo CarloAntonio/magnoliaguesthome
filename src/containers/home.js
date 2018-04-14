@@ -33,7 +33,7 @@ const home = () => {
                   <i className="fa fa-map-marker"></i>
                 </div>{/* .contact-item-icon */}
                 <h4 className="contact-item-title">Office address:</h4>
-                <div className="contact-item-info">XXXX Something, Concord, CA</div>
+                <div className="contact-item-info">1639 Fairwood Drive, Concord, CA</div>
               </div>{/* .contact-item */}
             </div>{/* .col-# */}
 
