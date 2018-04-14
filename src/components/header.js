@@ -17,8 +17,8 @@ const obHeader = () => {
             </div>{/* .col-sm-8 */}
             <div className="col-sm-4 hidden-xs">
               <div className="nav-utility nav-right">
-                <a href="#" className="nav-item"><i className="fa fa-facebook"></i></a>
-                <a href="#" className="nav-item"><i className="fa fa-linkedin"></i></a>
+                <a href="https://www.facebook.com/MagnoliaGuestHomeLLC/" target="_blank" className="nav-item"><i className="fa fa-facebook"></i></a>
+                <a href="https://www.linkedin.com/in/gene-jr-gepulle-309183156/" target="_blank" className="nav-item"><i className="fa fa-linkedin"></i></a>
               </div>{/* .nav-utility */}
             </div>{/* .col-sm-4 */}
           </div>{/* .row */}
