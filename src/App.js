@@ -7,6 +7,7 @@ import './App.css';
 import Header from "./components/header";
 import Footer from "./components/footer";
 import Home from "./containers/home";
+import Facility from "./containers/facility"
 
 export default class App extends Component {
   render() {
@@ -18,6 +19,7 @@ export default class App extends Component {
           Handles the routing of the website. //Not needed, single page
         ============================================================ */}
         <Home />
+        <Facility />
 
         <Footer />
       </div>

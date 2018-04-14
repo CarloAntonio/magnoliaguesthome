@@ -11,7 +11,7 @@ const home = () => {
                 <i className="fa fa-phone"></i>
               </div>{/* .contact-item-icon */}
               <h4 className="contact-item-title">Phone number:</h4>
-              <div className="contact-item-info">0-274-441-5005</div>
+              <div className="contact-item-info">925-483-2610</div>
             </div>{/* .contact-item */}
           </div>{/* .col-# */}
 
@@ -21,7 +21,7 @@ const home = () => {
                 <i className="fa fa-envelope-o"></i>
               </div>{/* .contact-item-icon */}
               <h4 className="contact-item-title">Email address:</h4>
-              <div className="contact-item-info">hello@construction.me</div>
+              <div className="contact-item-info">magnoliaghllc@aol.com</div>
             </div>{/* .contact-item */}
           </div>{/* .col-# */}
 
@@ -31,7 +31,7 @@ const home = () => {
                 <i className="fa fa-map-marker"></i>
               </div>{/* .contact-item-icon */}
               <h4 className="contact-item-title">Office address:</h4>
-              <div className="contact-item-info">5252 E Walnut Ave, Orange, CA</div>
+              <div className="contact-item-info">XXXX Something, Concord, CA</div>
             </div>{/* .contact-item */}
           </div>{/* .col-# */}
 
@@ -40,13 +40,14 @@ const home = () => {
               <div className="contact-item-icon">
                 <i className="fa fa-clock-o"></i>
               </div>{/* .contact-item-icon */}
-              <h4 className="contact-item-title">Opening times:</h4>
+              <h4 className="contact-item-title">Phone Lines Open:</h4>
               <div className="contact-item-info">Mon - Sat: 7.00 - 16:00</div>
             </div>{/* .contact-item */}
           </div>{/* .col-# */}
         </div>{/* .row */}
       </div>{/* container */}
     </div>
+
   );
 }
 
