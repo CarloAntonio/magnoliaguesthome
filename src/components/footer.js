@@ -22,7 +22,7 @@ const obFooter = () => {
                 <p>1639 Fairwood Drive, Concord, California, United States. | magnoliaghllc@aol.com<br/>925-483-2610</p>
               </section>
             </div>{/* .col-## */}
-          </div> {/* .row-## */} 
+          </div> {/* .row-## */}
         </div>{/* .container */}
       </footer>
 
@@ -35,10 +35,10 @@ const obFooter = () => {
 
             <div class="col-sm-6 copy-right">
               <ul class="social-icon">
-                <li><a href="#" target="_blank" class="icon-twitter"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#" target="_blank" class="icon-facebook"><i class="fa fa-facebook-square"></i></a></li>
-                <li><a href="#" target="_blank" class="icon-youtube"><i class="fa fa-youtube"></i></a></li>
-                <li><a href="#" target="_blank" class="icon-instagram"><i class="fa fa-instagram"></i></a></li>
+                <li><a href="https://twitter.com/CarloAntonioB" target="_blank" class="icon-twitter"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="https://www.facebook.com/carlo.anthony.7" target="_blank" class="icon-facebook"><i class="fa fa-facebook-square"></i></a></li>
+                <li><a href="https://www.youtube.com/channel/UC8fnvYf5xW-8YVgJCRqSjsA" target="_blank" class="icon-youtube"><i class="fa fa-youtube"></i></a></li>
+                <li><a href="https://www.instagram.com/carloantoniob/" target="_blank" class="icon-instagram"><i class="fa fa-instagram"></i></a></li>
               </ul>
             </div>{/* .col-sm-6 */}
           </div>{/* .row */}
