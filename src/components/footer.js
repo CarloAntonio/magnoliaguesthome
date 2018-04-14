@@ -1,4 +1,5 @@
 import React from "react";
+import footerImage from "../img/img-logo-footer.png"
 
 const obFooter = () => {
   return (
@@ -7,7 +8,7 @@ const obFooter = () => {
         <div className="row">
           <div className="col-md-4 col-sm-6">
             <section className="widget">
-              <img src="assets/img/img-logo-footer.png" alt="bootstrap theme for construction companies" className="img-responsive marg-20-btm marg-20-top"/>
+              <img src={footerImage} alt="bootstrap theme for construction companies" className="img-responsive marg-20-btm marg-20-top"/>
               <p>Construction company based on Orange, California. Construction was very sufficient in maintaining the integrity of project in terms of planning, scheduling, cost and quality.</p>
             </section>{/* .widget */}
           </div>{/* .col-## */}

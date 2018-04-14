@@ -1,28 +1,24 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import '../App.css';
-import image from '../img/img-content-01.jpg';
-import logo from '../img/img-logo.png';
+import logo from '../img/magnolia-flower.png';
 
 const obHeader = () => {
   return (
-    <div className="header" data-parallax="scroll" style ={ { backgroundImage: `url(${require('../img/img-content-01.jpg')})` } }>
+    <div className="header header-image" data-parallax="scroll" style ={ { backgroundImage: `url(${require('../img/wall.jpeg')})`} }>
       {/* begin:topbar */}
       <div id="topbar" className="topbar">
         <div className="container">
           <div className="row">
             <div className="col-sm-8">
               <div className="nav-utility">
-                <span className="nav-item">A stylish Bootstrap theme for construction companies</span>
+                <span className="nav-item">Magnolia Guest Home LLC</span>
               </div>{/* .nav-utility */}
             </div>{/* .col-sm-8 */}
             <div className="col-sm-4 hidden-xs">
               <div className="nav-utility nav-right">
-                <a href="#" className="nav-item"><i className="fa fa-twitter"></i></a>
                 <a href="#" className="nav-item"><i className="fa fa-facebook"></i></a>
                 <a href="#" className="nav-item"><i className="fa fa-linkedin"></i></a>
-                <a href="#" className="nav-item"><i className="fa fa-pinterest"></i></a>
-                <a href="#" className="nav-item"><i className="fa fa-envelope-o"></i></a>
               </div>{/* .nav-utility */}
             </div>{/* .col-sm-4 */}
           </div>{/* .row */}
@@ -49,8 +45,7 @@ const obHeader = () => {
                     <ul id="primary-menu" className="menu nav-menu" aria-expanded="false">
                       <li className="menu-item current-menu-item"><a href="#home">Home</a></li>
                       <li className="menu-item"><a href="#service">Services</a></li>
-                      <li className="menu-item"><a href="#work">Projects</a></li>
-                      <li className="menu-item"><a href="#about">About</a></li>
+                      <li className="menu-item"><a href="#facility">Facility</a></li>
                       <li className="menu-item"><a href="#testimonial">Testimonial</a></li>
                       <li className="menu-item"><a href="#contact">Contact</a></li>
                     </ul>
@@ -67,13 +62,9 @@ const obHeader = () => {
         <div className="row">
           <div className="col-sm-5">
             <div className="header-caption">
-              <span className="caption-subtitle">Our Service</span>
-              <h2 className="caption-title">We are your best homes, offices renovations and construction solution.</h2>
-              <p>We provide overall planning, coordination and control of a project, so you don’t have to worry about anything. Our promise as a contractor is to build community value into every project while delivering professional expertise.</p>
-              <div className="header-action-button">
-                <a className="btn btn-warning btn-md" href="#">Purchase</a>
-                <a className="btn btn-default btn-bordered  btn-md" href="#">Learn more</a>
-              </div>{/* header-action-button */}
+              <span className="caption-subtitle">Our Mission</span>
+              <h2 className="caption-title">Provide the safest, most reliable, and compassionate care home service that fits a client’s daily needs in a care facility.</h2>
+              <p>We are a residential care facility for elderly individuals with a hospice and dementia waiver located in beautiful Concord, California. One of the few State and Federal approved assisted living waiver provider in Concord, California that helps support low income elderly. We offer 24/7 non-medical care and support to our elderly clients at our facility. All services are provided by experienced and well-trained staff, license and insured caregivers.</p>
             </div>{/* .header-caption */}
           </div>{/* .col-sm-5 */}
         </div>{/* .row */}
