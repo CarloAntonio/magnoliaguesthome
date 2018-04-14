@@ -1,7 +1,7 @@
 
 import React from "react";
 
-const testimonials = () => {
+const contact = () => {
   return (
 
     <div id="contact" className="contact image-block">
@@ -38,4 +38,4 @@ const testimonials = () => {
   );
 }
 
-export default testimonials;
+export default contact;
