@@ -3,7 +3,7 @@ import React from "react";
 const services = () => {
   return (
 
-    <div id="service" className="service content-section bg-white">
+    <div id="service" className="service content-section bg-grey">
       <div className="container">
         <div className="row">
 

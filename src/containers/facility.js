@@ -6,7 +6,7 @@ import room2 from "../img/livingRoom.jpg";
 
 const facility = () => {
   return (
-    <div id="facility" className="work content-section bg-grey">
+    <div id="facility" className="work content-section bg-white">
       <div className="container">
         <div className="row">
           <div className="col-md-12">

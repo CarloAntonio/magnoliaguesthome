@@ -2,7 +2,7 @@ import React from "react";
 
 const testimonials = () => {
   return (
-    <div id="testimonial" className="block-section image-block bg-white">
+    <div id="testimonial" className="block-section image-block bg-grey">
       <div className="container-fluid container-no-padding">
         <div className="row row-no-margin">
           <div className="image-block-item col-md-6 col-md-offset-6 col-sm-5 col-xs-12">
