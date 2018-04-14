@@ -7,7 +7,9 @@ import './App.css';
 import Header from "./components/header";
 import Footer from "./components/footer";
 import Home from "./containers/home";
-import Facility from "./containers/facility"
+import Facility from "./containers/facility";
+import Testimonials from "./containers/testimonials";
+import Contact from "./containers/contact";
 
 export default class App extends Component {
   render() {
@@ -20,6 +22,8 @@ export default class App extends Component {
         ============================================================ */}
         <Home />
         <Facility />
+        <Testimonials />
+        <Contact />
 
         <Footer />
       </div>
