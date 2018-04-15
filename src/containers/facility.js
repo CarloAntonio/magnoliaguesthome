@@ -1,8 +1,4 @@
 import React from "react";
-import building1 from "../img/building.jpg";
-import room1 from "../img/bedroom.jpg";
-import backyard1 from "../img/backyard.jpg";
-import room2 from "../img/livingRoom.jpg";
 
 const facility = () => {
   return (
@@ -27,9 +23,9 @@ const facility = () => {
 
             <ul className="work-grid">
               <li className="work-item building">
-                <a href={ building1 } title="Facility Front" className="image-lightbox">
+                <a href="http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/building.jpg" title="Facility Front" className="image-lightbox">
                   <div className="work-item-image">
-                    <img src={ building1 } alt="Facility Front"/>
+                    <img src="http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/building.jpg" alt="Facility Front"/>
                   </div>{/* .work-item-image */}
                   <div className="work-item-info">
                     <h4 className="work-item-title">Facility Front</h4>
@@ -39,9 +35,9 @@ const facility = () => {
               </li>{/* .work-item */}
 
               <li className="work-item rooms">
-                <a href={ room1} title="Bedroom View" className="image-lightbox">
+                <a href="http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/bedroom.jpg" crossorigin="anonymous" title="Bedroom View" className="image-lightbox">
                   <div className="work-item-image">
-                    <img src={ room1 } alt="Bedroom View"/>
+                    <img src="http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/bedroom.jpg" crossorigin="anonymous" alt="Bedroom View"/>
                   </div>{/* .work-item-image */}
                   <div className="work-item-info">
                     <h4 className="work-item-title">Bedroom View</h4>
@@ -51,9 +47,9 @@ const facility = () => {
               </li>{/* .work-item */}
 
               <li className="work-item backyard">
-                <a href={ backyard1 } title="Backyard View" className="image-lightbox">
+                <a href="http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/backyard.jpg" title="Backyard View" className="image-lightbox">
                   <div className="work-item-image">
-                    <img src={ backyard1 } alt="Backyard View"/>
+                    <img src="http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/backyard.jpg" alt="Backyard View"/>
                   </div>{/* .work-item-image */}
                   <div className="work-item-info">
                     <h4 className="work-item-title">Backyard View</h4>
@@ -63,9 +59,9 @@ const facility = () => {
               </li>{/* .work-item */}
 
               <li className="work-item rooms">
-                <a href={ room2 } title="Living Room" className="image-lightbox">
+                <a href="http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/livingRoom.jpg" title="Living Room" className="image-lightbox">
                   <div className="work-item-image">
-                    <img src={ room2 } alt="Living Room"/>
+                    <img src="http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/livingRoom.jpg" alt="Living Room"/>
                   </div>{/* .work-item-image */}
                   <div className="work-item-info">
                     <h4 className="work-item-title">Living Room</h4>
@@ -73,7 +69,6 @@ const facility = () => {
                   </div>{/* .work-item-info */}
                 </a>
               </li>{/* .work-item */}
-
 
             </ul>{/* .work-grid */}
           </div>{/* .col-md-12 */}

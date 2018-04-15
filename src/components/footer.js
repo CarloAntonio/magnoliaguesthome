@@ -1,5 +1,4 @@
 import React from "react";
-import footerImage from "../img/magnolia-flower.png"
 
 const obFooter = () => {
   return (

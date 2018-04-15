@@ -55,7 +55,7 @@ const home = () => {
         <div className="container-fluid">
           <div className="row">
             <div className="image-block-item col-md-6 col-sm-5 col-xs-12">
-              <div className="image-block-item-background" style ={ { backgroundImage: `url(${require('../img/hands.jpeg')})` }}></div>
+              <div className="image-block-item-background" style ={ { backgroundImage: "url('http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/hands.jpeg')" }}></div>
             </div>{/* .image-block-item */}
           </div>{/* .row */}
         </div>{/* .container-fluid */}

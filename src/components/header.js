@@ -1,11 +1,11 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import '../App.css';
-import logo from '../img/magnolia-flower.png';
+// import logo from '../img/magnolia-flower.png';
 
 const obHeader = () => {
   return (
-    <div className="header header-image" data-parallax="scroll" style ={ { backgroundImage: `url(${require('../img/wall.jpeg')})`} }>
+    <div className="header header-image" data-parallax="scroll" style ={ { backgroundImage: "url('http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/wall.jpeg')" } }>
       {/* begin:topbar */}
       <div id="topbar" className="topbar">
         <div className="container">
@@ -33,7 +33,7 @@ const obHeader = () => {
             <div className="row">
               <div className="col-sm-3">
                 <div className="site-branding">
-                  <h1 className="site-title title-image"><a href="#home" rel="home"><img src={ logo } alt="construction business" className="img-responsive"/></a></h1>
+                  <h1 className="site-title title-image"><a href="#home" rel="home"><img src="http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/magnolia-flower.png" alt="magnolia guest home logo" crossOrigin="anonymous" className="img-responsive"/></a></h1>
                 </div>{/* .site-branding */}
               </div>{/* .col-sm-3 */}
 
