@@ -25,19 +25,19 @@ const obFooter = () => {
         </div>{/* .container */}
       </footer>
 
-      <section id="copyright" class="copyright bg-black">
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-6 copy-left">
+      <section id="copyright" className="copyright bg-black">
+        <div className="container">
+          <div className="row">
+            <div className="col-sm-6 copy-left">
               <p>Copyright &copy; 2018 <a href="http://www.carlobilbao.com" target="_blank"><strong>Carlo Antonio Bilbao</strong></a>. All Right Reserved.</p>
             </div>{/* .col-sm-6 */}
 
-            <div class="col-sm-6 copy-right">
-              <ul class="social-icon">
-                <li><a href="https://twitter.com/CarloAntonioB" target="_blank" class="icon-twitter"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="https://www.facebook.com/carlo.anthony.7" target="_blank" class="icon-facebook"><i class="fa fa-facebook-square"></i></a></li>
-                <li><a href="https://www.youtube.com/channel/UC8fnvYf5xW-8YVgJCRqSjsA" target="_blank" class="icon-youtube"><i class="fa fa-youtube"></i></a></li>
-                <li><a href="https://www.instagram.com/carloantoniob/" target="_blank" class="icon-instagram"><i class="fa fa-instagram"></i></a></li>
+            <div className="col-sm-6 copy-right">
+              <ul className="social-icon">
+                <li><a href="https://twitter.com/CarloAntonioB" target="_blank" className="icon-twitter"><i className="fa fa-twitter"></i></a></li>
+                <li><a href="https://www.facebook.com/carlo.anthony.7" target="_blank" className="icon-facebook"><i className="fa fa-facebook-square"></i></a></li>
+                <li><a href="https://www.youtube.com/channel/UC8fnvYf5xW-8YVgJCRqSjsA" target="_blank" className="icon-youtube"><i className="fa fa-youtube"></i></a></li>
+                <li><a href="https://www.instagram.com/carloantoniob/" target="_blank" className="icon-instagram"><i className="fa fa-instagram"></i></a></li>
               </ul>
             </div>{/* .col-sm-6 */}
           </div>{/* .row */}
