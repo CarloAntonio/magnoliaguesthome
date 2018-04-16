@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import '../App.css';
 // import logo from '../img/magnolia-flower.png';
 
@@ -17,8 +16,8 @@ const obHeader = () => {
             </div>{/* .col-sm-8 */}
             <div className="col-sm-4 hidden-xs">
               <div className="nav-utility nav-right">
-                <a href="https://www.facebook.com/MagnoliaGuestHomeLLC/" target="_blank" className="nav-item"><i className="fa fa-facebook"></i></a>
-                <a href="https://www.linkedin.com/in/gene-jr-gepulle-309183156/" target="_blank" className="nav-item"><i className="fa fa-linkedin"></i></a>
+                <a href="https://www.facebook.com/MagnoliaGuestHomeLLC/" target="_blank" rel="noopener noreferrer" className="nav-item"><i className="fa fa-facebook"></i></a>
+                <a href="https://www.linkedin.com/in/gene-jr-gepulle-309183156/" target="_blank" rel="noopener noreferrer" className="nav-item"><i className="fa fa-linkedin"></i></a>
               </div>{/* .nav-utility */}
             </div>{/* .col-sm-4 */}
           </div>{/* .row */}
@@ -38,7 +37,7 @@ const obHeader = () => {
               </div>{/* .col-sm-3 */}
 
               <div className="col-sm-9">
-                <nav id="site-navigation" className="main-navigation" role="navigation">
+                <nav id="site-navigation" className="main-navigation">
                   <button type="button" className="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><span className="pe-7s-menu"></span><span className="sr-only">Primary Menu</span></button>
 
                   <div className="menu-testing-menu-container">

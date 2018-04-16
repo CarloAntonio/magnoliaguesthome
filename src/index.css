@@ -16,3 +16,7 @@ body {
 .list-no-indent {
   padding-left: 0;
 }
+
+.list-color {
+  color: #777a8d;
+}

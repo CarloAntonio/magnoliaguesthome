@@ -35,9 +35,9 @@ const facility = () => {
               </li>{/* .work-item */}
 
               <li className="work-item rooms">
-                <a href="http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/bedroom.jpg" crossorigin="anonymous" title="Bedroom View" className="image-lightbox">
+                <a href="http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/bedroom.jpg" title="Bedroom View" className="image-lightbox">
                   <div className="work-item-image">
-                    <img src="http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/bedroom.jpg" crossorigin="anonymous" alt="Bedroom View"/>
+                    <img src="http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/bedroom.jpg" alt="Bedroom View"/>
                   </div>{/* .work-item-image */}
                   <div className="work-item-info">
                     <h4 className="work-item-title">Bedroom View</h4>

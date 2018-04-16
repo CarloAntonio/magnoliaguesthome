@@ -82,13 +82,11 @@ const home = () => {
                     <h4 className="service-item-title">History Of Excellence</h4>
                     <p>Feel free to check our record and compare our facilities with others at California Department of Social Services’ by clicking the button below and following these directions:</p>
                     <p>Look us up by entering the following:</p>
-                    <p>
-                      <ol>
-                        <li>Facility Type: Assisted Living Residential Care for the Elderly</li>
-                        <li>Facility Name: Magnolia Guest Home LLC</li>
-                        <li>Click: Search</li>
-                      </ol>
-                    </p>
+                    <ol className="list-color">
+                      <li>Facility Type: Assisted Living Residential Care for the Elderly</li>
+                      <li>Facility Name: Magnolia Guest Home LLC</li>
+                      <li>Click: Search</li>
+                    </ol>
                   </div>
                   <p><a href="https://secure.dss.ca.gov/CareFacilitySearch/Search/All" className="button"><i className="fa"></i> Research Our Service </a></p>
                 </div>{/* .tab-pane */}
