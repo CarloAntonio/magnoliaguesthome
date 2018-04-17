@@ -20,3 +20,18 @@ body {
 .list-color {
   color: #777a8d;
 }
+
+.alert.alert-success {
+  display: none;
+  margin-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15px;
+}
+
+.alert.alert-danger {
+  display: none;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15px;
+}
