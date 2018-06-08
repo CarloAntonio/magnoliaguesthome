@@ -61,6 +61,7 @@ const obHeader = () => {
         <div className="row">
           <div className="col-sm-5">
             <div className="header-caption">
+              <h1>Magnolia Guest Home LLC</h1>
               <span className="caption-subtitle">Our Mission</span>
               <h2 className="caption-title">Provide the safest, most reliable, and compassionate care home service that fits a client’s daily needs in a care facility.</h2>
               <p>We are a residential care facility for elderly individuals with a hospice and dementia waiver located in beautiful Concord, California. One of the few State and Federal approved assisted living waiver provider in Concord, California that helps support low income elderly. We offer 24/7 non-medical care and support to our elderly clients at our facility. All services are provided by experienced and well-trained staff, license and insured caregivers.</p>
