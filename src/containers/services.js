@@ -33,7 +33,7 @@ const services = () => {
           <div className="col-md-4">
             <div className="blog-entry">
               <div className="blog-entry-header">
-                <h2 className="entry-title">Accomadation</h2>
+                <h2 className="entry-title">Accommodation</h2>
               </div>{/* .blog-entry-header */}
               <div className="blog-entry-content">
                 <ul className="list-no-indent list-color">
