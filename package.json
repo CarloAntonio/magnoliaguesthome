@@ -13,7 +13,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "deploy": "aws s3 cp --recursive ./build s3://magnoliaghllc.com",
+    "deploy": "aws s3 cp --recursive ./build s3://www.magnoliaghllc.com",
     "eject": "react-scripts eject"
   }
 }
