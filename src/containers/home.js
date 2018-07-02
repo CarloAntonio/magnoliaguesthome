@@ -55,7 +55,7 @@ const home = () => {
         <div className="container-fluid">
           <div className="row">
             <div className="image-block-item col-md-6 col-sm-5 col-xs-12">
-              <div className="image-block-item-background" style ={ { backgroundImage: "url('http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/hands.jpeg')" }}></div>
+              <div className="image-block-item-background" style ={ { backgroundImage: "url('https://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/hands.jpeg')" }}></div>
             </div>{/* .image-block-item */}
           </div>{/* .row */}
         </div>{/* .container-fluid */}
@@ -67,7 +67,7 @@ const home = () => {
                 <li role="presentation" className="active">
                   <a href="#why" role="tab" id="why-tab" data-toggle="tab" aria-controls="why" aria-expanded="true">Why Choose Us</a>
                 </li>
-                <li role="caregiver" className="">
+                <li role="tab">
                   <a href="#caregiver" id="caregiver-tab" role="tab" data-toggle="tab" aria-controls="caregiver" aria-expanded="false">Our Caregivers</a>
                 </li>
               </ul>

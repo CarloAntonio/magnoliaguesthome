@@ -15,7 +15,7 @@ const facility = () => {
         <div className="row">
           <div className="col-md-12">
             <ul className="work-filter">
-              <li className="active" data-filter="*"><a href="#">All views</a></li>
+              <li className="active" data-filter="*"><a href="#all">All views</a></li>
               <li data-filter=".building"><a href="#building">Building</a></li>
               <li data-filter=".rooms"><a href="#rooms">Rooms</a></li>
               <li data-filter=".backyard"><a href="#backyard">Backyard</a></li>
@@ -23,9 +23,9 @@ const facility = () => {
 
             <ul className="work-grid">
               <li className="work-item building">
-                <a href="http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/building.jpg" title="Facility Front" className="image-lightbox">
+                <a href="https://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/building.jpg" title="Facility Front" className="image-lightbox">
                   <div className="work-item-image">
-                    <img src="http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/building.jpg" alt="Facility Front"/>
+                    <img src="https://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/building.jpg" alt="Facility Front"/>
                   </div>{/* .work-item-image */}
                   <div className="work-item-info">
                     <h4 className="work-item-title">Facility Front</h4>
@@ -35,9 +35,9 @@ const facility = () => {
               </li>{/* .work-item */}
 
               <li className="work-item rooms">
-                <a href="http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/bedroom.jpg" title="Bedroom View" className="image-lightbox">
+                <a href="https://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/bedroom.jpg" title="Bedroom View" className="image-lightbox">
                   <div className="work-item-image">
-                    <img src="http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/bedroom.jpg" alt="Bedroom View"/>
+                    <img src="https://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/bedroom.jpg" alt="Bedroom View"/>
                   </div>{/* .work-item-image */}
                   <div className="work-item-info">
                     <h4 className="work-item-title">Bedroom View</h4>
@@ -47,9 +47,9 @@ const facility = () => {
               </li>{/* .work-item */}
 
               <li className="work-item backyard">
-                <a href="http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/backyard.jpg" title="Backyard View" className="image-lightbox">
+                <a href="https://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/backyard.jpg" title="Backyard View" className="image-lightbox">
                   <div className="work-item-image">
-                    <img src="http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/backyard.jpg" alt="Backyard View"/>
+                    <img src="https://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/backyard.jpg" alt="Backyard View"/>
                   </div>{/* .work-item-image */}
                   <div className="work-item-info">
                     <h4 className="work-item-title">Backyard View</h4>
@@ -59,9 +59,9 @@ const facility = () => {
               </li>{/* .work-item */}
 
               <li className="work-item rooms">
-                <a href="http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/livingRoom.jpg" title="Living Room" className="image-lightbox">
+                <a href="https://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/livingRoom.jpg" title="Living Room" className="image-lightbox">
                   <div className="work-item-image">
-                    <img src="http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/livingRoom.jpg" alt="Living Room"/>
+                    <img src="https://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/livingRoom.jpg" alt="Living Room"/>
                   </div>{/* .work-item-image */}
                   <div className="work-item-info">
                     <h4 className="work-item-title">Living Room</h4>

@@ -4,7 +4,7 @@ import '../App.css';
 
 const obHeader = () => {
   return (
-    <div className="header header-image" data-parallax="scroll" style ={ { backgroundImage: "url('http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/wall.jpeg')" } }>
+    <div className="header header-image" data-parallax="scroll" style ={ { backgroundImage: "url('https://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/wall.jpeg')" } }>
       {/* begin:topbar */}
       <div id="topbar" className="topbar">
         <div className="container">
@@ -32,7 +32,7 @@ const obHeader = () => {
             <div className="row">
               <div className="col-sm-3">
                 <div className="site-branding">
-                  <h1 className="site-title title-image"><a href="#home" rel="home"><img src="http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/magnolia-flower.png" alt="magnolia guest home logo" crossOrigin="anonymous" className="img-responsive"/></a></h1>
+                  <h1 className="site-title title-image"><a href="#home" rel="home"><img src="https://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/magnolia-flower.png" alt="magnolia guest home logo" crossOrigin="anonymous" className="img-responsive"/></a></h1>
                 </div>{/* .site-branding */}
               </div>{/* .col-sm-3 */}
 

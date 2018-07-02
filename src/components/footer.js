@@ -29,7 +29,7 @@ const obFooter = () => {
         <div className="container">
           <div className="row">
             <div className="col-sm-6 copy-left">
-              <p>Copyright &copy; 2018 <a href="http://www.carlobilbao.com" target="_blank" rel="noopener noreferrer"><strong>Carlo Antonio Bilbao</strong></a>. All Right Reserved.</p>
+              <p>Copyright &copy; 2018 <a href="https://www.carlobilbao.com" target="_blank" rel="noopener noreferrer"><strong>Carlo Antonio Bilbao</strong></a>. All Right Reserved.</p>
             </div>{/* .col-sm-6 */}
 
             <div className="col-sm-6 copy-right">

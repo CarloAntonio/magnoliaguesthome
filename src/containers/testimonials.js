@@ -6,7 +6,7 @@ const testimonials = () => {
       <div className="container-fluid container-no-padding">
         <div className="row row-no-margin">
           <div className="image-block-item col-md-6 col-md-offset-6 col-sm-5 col-xs-12">
-            <div className="image-block-item-background" style ={ { backgroundImage: "url('http://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/word.jpg')" }}></div>
+            <div className="image-block-item-background" style ={ { backgroundImage: "url('https://d1ty8z742i6uvq.cloudfront.net/magnoliaghllc/img/word.jpg')" }}></div>
           </div>{/* .image-block-item */}
         </div>{/* .row */}
       </div>{/* .container-fluid */}
